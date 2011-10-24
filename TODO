@@ -1,0 +1,4 @@
+* Use separate streams for different logging levels (errors to stderr,
+  debugging messages to stdout etc.)
+
+* Rearrange ignore-files handling (directory walker code), it's ugly
