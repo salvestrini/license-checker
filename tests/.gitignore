@@ -1,0 +1,8 @@
+# This is only a placeholder directory for tests (so disable all previous
+# git-ignores). We will fix it later on by implementing a proper regression
+# test suite
+
+!*
+
+# Re-add spurios .gitignore files from ignore
+.gitignore~
