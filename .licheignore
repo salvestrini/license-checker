@@ -1,0 +1,17 @@
+.mailmap
+.git*
+/autom4te.cache
+*.m4
+*~
+Makefile*
+/config*
+/build
+/build-aux
+*.py*
+/TODO
+/README
+/INSTALL
+/THANKS
+/AUTHORS
+/bootstrap
+/COPYING
