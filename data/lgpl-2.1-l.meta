@@ -1,0 +1,5 @@
+#This is the meta file for lgpl-2.1-l.txt.
+isCompatible : gpl-2.0-l gpl-2.0-m-classpath gpl-2.0-only-s gpl-2.0-s lgpl-2.1-s bsd sleepycat-bdb sleepycat mit ms-pl bsd-sun
+
+tags : <year>
+

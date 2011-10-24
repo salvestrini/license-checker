@@ -1,0 +1,4 @@
+#This is the meta file for dual-mpl-gpl-f.txt.
+isCompatible : gpl-2.0-s nokos-1.0a-l nokos-1.0a-s bsd mpl-1.0-l mpl-1.1-l mpl-1.1-s cddl-1.0 ms-pl sleepycat-bdb sleepycat osl-3.0 cpl-1.0 eclipse-1.0 mit bsd-sun gpl-2.0-l gpl-2.0-m-classpath gpl-2.0-only-s lgpl-2.1-l lgpl-2.1-s bsd ms-pl mit mpl-1.0-s
+
+tags : <COPYRIGHT_OWNER> <ORGANIZATION>

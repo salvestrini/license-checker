@@ -1,0 +1,5 @@
+#This is the meta file for mpl-1.1-l.txt.
+isCompatible : nokos-1.0a-l nokos-1.0a-s bsd mpl-1.0-l mpl-1.0-s mpl-1.1-s cddl-1.0 ms-pl sleepycat-bdb sleepycat osl-3.0 cpl-1.0 eclipse-1.0 mit bsd-sun
+
+tags : 
+

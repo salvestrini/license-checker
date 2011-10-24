@@ -1,0 +1,5 @@
+#This is the meta file for bsd.txt.
+isCompatible : gpl-2.0-l gpl-2.0-m-classpath gpl-2.0-only-s gpl-2.0-s lgpl-2.1-l lgpl-2.1-s mpl-1.0-l mpl-1.0-s mpl-1.1-l mpl-1.1-s cddl-1.0 php-3.0-l php-3.0-s apache-1.0 apache-1.1 apache-2.0-l apache-2.0-s ipl-1.0 artistic ms-pl ms-cl ms-rl sleepycat-bdb sleepycat mit cpl-1.0 eclipse-1.0 ms-lcl nokos-1.0a-l nokos-1.0a-s perlartistic osl-3.0 bsd-sun
+
+tags : <COPYRIGHT_OWNER> <ORGANIZATION>
+

@@ -1,0 +1,5 @@
+#This is the meta file for cddl-1.0.txt.
+isCompatible : cpl-1.0 eclipse-1.0 bsd mpl-1.0-l mpl-1.0-s mpl-1.1-l mpl-1.1-s ms-pl sleepycat-bdb sleepycat mit nokos-1.0a-l nokos-1.0a-s osl-3.0 bsd-sun
+
+tags : 
+

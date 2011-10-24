@@ -1,0 +1,5 @@
+#This is the meta file for apache-1.0.txt.
+isCompatible : bsd php-3.0-l php-3.0-s apache-1.1 apache-2.0-l apache-2.0-s ipl-1.0 artistic ms-pl sleepycat-bdb sleepycat mit perlartistic bsd-sun
+
+tags : <year>
+
